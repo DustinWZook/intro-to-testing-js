@@ -9,3 +9,8 @@ function sayHello(input){
     }
     return "Hello, " + input + "!";
 }
+
+// was this all exercise 10 was asking for?
+function isFive(input){
+    return input == 5;
+}
